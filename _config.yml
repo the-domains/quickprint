@@ -1,0 +1,14 @@
+layout_spectrum: 0.2239527
+typography_spectrum: 0.4881848
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Quickprint
